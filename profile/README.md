@@ -1,47 +1,53 @@
-<div align="center">
-  <p>
-    <img src="./assets/mosaic-logomark.svg#gh-light-mode-only" alt="Mosaic" width="72" height="72" />
-    <img src="./assets/mosaic-logomark_dark.svg#gh-dark-mode-only" alt="Mosaic" width="72" height="72" />
-  </p>
-
-  <h1>Mosaic</h1>
-
-  <p><strong>An email builder, built by an email marketer.</strong></p>
-
-  <p>Governed content creation for the people who plan, build, review, and deliver campaigns.</p>
-
-  <p>
-    <a href="https://mosaic-email.com">Website</a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/mosaic-email/integrations">Integrations</a>
-  </p>
-</div>
-
-![Mosaic — Design faster. Deliver smarter.](./assets/mosaic-banner.svg)
+<img src="./assets/mosaic-banner_101426.svg" alt="Mosaic" width="100%" />
 
 ## Email production, without the bottlenecks.
 
 Mosaic brings visual authoring, brand governance, and production-ready output into one connected workspace. Build reusable content for email campaigns, control design standards across Libraries, and review work before completion—without making routine changes a development project.
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>Visual, modular creation</h3>
-      <p>Build responsive email content from reusable modules, templates, and personalized variations.</p>
+    <td width="52" align="left" valign="top">
+      <img src="./assets/feature-visual.svg" alt="" width="28" height="28" />
     </td>
-    <td width="50%" valign="top">
-      <h3>Governance by design</h3>
-      <p>Manage shared Libraries, brand configuration, components, and user permissions.</p>
+    <td valign="top">
+      <strong>Visual, modular creation</strong><br />
+      Build responsive email content from reusable modules, templates, and personalized variations.
     </td>
   </tr>
+</table>
+
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>Review with context</h3>
-      <p>Inspect desktop and mobile presentations, including light and dark appearances, before completing an email.</p>
+    <td width="52" align="left" valign="top">
+      <img src="./assets/feature-governance.svg" alt="" width="28" height="28" />
     </td>
-    <td width="50%" valign="top">
-      <h3>Production-ready artifacts</h3>
-      <p>Compile deterministic email HTML and apply platform-specific formatting through integrations.</p>
+    <td valign="top">
+      <strong>Governance by design</strong><br />
+      Manage shared Libraries, brand configuration, components, and user permissions.
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="52" align="left" valign="top">
+      <img src="./assets/feature-review.svg" alt="" width="28" height="28" />
+    </td>
+    <td valign="top">
+      <strong>Review with context</strong><br />
+      Inspect desktop and mobile presentations, including light and dark appearances, before completing an email.
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="52" align="left" valign="top">
+      <img src="./assets/feature-output.svg" alt="" width="28" height="28" />
+    </td>
+    <td valign="top">
+      <strong>Production-ready artifacts</strong><br />
+      Compile deterministic email HTML and apply platform-specific formatting through integrations.
     </td>
   </tr>
 </table>
