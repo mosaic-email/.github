@@ -1,60 +1,54 @@
-<img src="./assets/mosaic-banner_101426.svg" alt="Mosaic" width="100%" />
+<div align="center">
+  <p>
+    <img src="./assets/mosaic-banner_101426.svg#gh-light-mode-only" alt="Mosaic" width="100%" />
+    <img src="./assets/mosaic-banner_101426.svg#gh-dark-mode-only" alt="Mosaic" width="100%" />
+  </p>
+
+  <p><strong>An email builder, built by an email marketer.</strong></p>
+
+  <p>Governed content creation for the people who plan, build, review, and deliver campaigns.</p>
+
+  <p>
+    <a href="https://github.com/mosaic-email/">Website</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/mosaic-email/integrations">Integrations</a>
+  </p>
+</div>
 
 ## Email production, without the bottlenecks.
 
 Mosaic brings visual authoring, brand governance, and production-ready output into one connected workspace. Build reusable content for email campaigns, control design standards across Libraries, and review work before completion—without making routine changes a development project.
 
-<table width="100%">
+<table>
   <tr>
-    <td width="52" align="left" valign="top">
-      <img src="./assets/feature-visual.svg" alt="" width="28" height="28" />
+    <td width="50%" valign="top">
+      <h3>Visual, modular creation</h3>
+      <p>Build responsive email content from reusable modules, templates, and personalized variations.</p>
+      <br/>
     </td>
-    <td valign="top">
-      <strong>Visual, modular creation</strong><br />
-      Build responsive email content from reusable modules, templates, and personalized variations.
+    <td width="50%" valign="top">
+      <h3>Governance by design</h3>
+      <p>Manage shared Libraries, brand configuration, components, and user permissions.</p>
+      <br/>
     </td>
   </tr>
-</table>
-
-<table width="100%">
   <tr>
-    <td width="52" align="left" valign="top">
-      <img src="./assets/feature-governance.svg" alt="" width="28" height="28" />
+    <td width="50%" valign="top">
+      <h3>Review with context</h3>
+      <p>Inspect desktop and mobile presentations, including light and dark appearances, before completing an email.</p>
+      <br/>
     </td>
-    <td valign="top">
-      <strong>Governance by design</strong><br />
-      Manage shared Libraries, brand configuration, components, and user permissions.
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="52" align="left" valign="top">
-      <img src="./assets/feature-review.svg" alt="" width="28" height="28" />
-    </td>
-    <td valign="top">
-      <strong>Review with context</strong><br />
-      Inspect desktop and mobile presentations, including light and dark appearances, before completing an email.
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="52" align="left" valign="top">
-      <img src="./assets/feature-output.svg" alt="" width="28" height="28" />
-    </td>
-    <td valign="top">
-      <strong>Production-ready artifacts</strong><br />
-      Compile deterministic email HTML and apply platform-specific formatting through integrations.
+    <td width="50%" valign="top">
+      <h3>Production-ready artifacts</h3>
+      <p>Compile deterministic email HTML and apply platform-specific formatting through integrations.</p>
+      <br/>
     </td>
   </tr>
 </table>
 
 ### More than email
 
-Mosaic also supports channel-native SMS and RCS content authoring. Authoring and exporting content are separate from sending or orchestrating campaigns; Mosaic does not operate as a delivery platform.
+Mosaic also supports channel-native SMS and RCS content authoring. Authoring and exporting content are separate from sending or orchestrating campaigns; Mosaic does not operate as a delivery, deployment, or CDN asset hosting platform.
 
 ## Built to extend.
 
@@ -72,6 +66,5 @@ Explore the [official Mosaic integrations repository](https://github.com/mosaic-
 
 <div align="center">
   <p><strong>Made for the people behind every send.</strong></p>
-  <p><a href="https://mosaic-email.com">mosaic-email.com</a></p>
   <sub>Mosaic is a product of Locki Dynamics LLC.<br/>© 2026 Locki Dynamics LLC. All rights reserved.</sub>
 </div>
